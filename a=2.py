@@ -5,3 +5,4 @@ c=1
 ##create cancel button
 ##edit post
 ##deletepost
+##authenticateuser
