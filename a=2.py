@@ -4,3 +4,5 @@ c=1
 ##create submit button 
 ##create cancel button
 ##edit post
+##deletepost
+##authenticateuser
